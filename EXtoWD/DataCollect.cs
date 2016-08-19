@@ -71,11 +71,11 @@ namespace EXtoWD
                 string select = String.Format("SELECT * FROM [{0}]", sheet1);
                 System.Data.OleDb.OleDbDataAdapter ad = new System.Data.OleDb.OleDbDataAdapter(select, con);
                 ad.Fill(ds);
-                if (System.IO.File.Exists("wciom_base.mdb"))
+                if (System.IO.File.Exists("your_base.mdb"))
                 {
                     int year = Convert.ToInt32(comboBox1.Text.ToString());
                     int month = Convert.ToInt32(comboBox2.Text.ToString());
-                    string conStr = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=wciom_base.mdb;Jet OLEDB:Engine Type=5";
+                    string conStr = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=your_base.mdb;Jet OLEDB:Engine Type=5";
                     System.Data.OleDb.OleDbConnection connectDb = new System.Data.OleDb.OleDbConnection(conStr);
                     connectDb.Open();
                     System.Data.OleDb.OleDbCommand myCMD = new System.Data.OleDb.OleDbCommand();
@@ -94,10 +94,10 @@ namespace EXtoWD
                     int month = Convert.ToInt32(comboBox2.Text.ToString());
                     ADOX.Catalog cat = new ADOX.Catalog();
                     string connstr = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source={0};Jet OLEDB:Engine Type=5";
-                    cat.Create(String.Format(connstr, "wciom_base.mdb"));
+                    cat.Create(String.Format(connstr, "your_base.mdb"));
                     cat = null;
-                    string conStr = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=wciom_base.mdb;Jet OLEDB:Engine Type=5";
-                    Querry("CREATE TABLE SURVEY(Anim varchar(255), weight int, height int, s_year int, s_month int);", "wciom_base.mdb");
+                    string conStr = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=your_base.mdb;Jet OLEDB:Engine Type=5";
+                    Querry("CREATE TABLE SURVEY(Anim varchar(255), weight int, height int, s_year int, s_month int);", "your_base.mdb");
                     System.Data.OleDb.OleDbConnection connectDb = new System.Data.OleDb.OleDbConnection(conStr);
                     connectDb.Open();
                     System.Data.OleDb.OleDbCommand myCMD = new System.Data.OleDb.OleDbCommand();
