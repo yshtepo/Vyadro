@@ -1,0 +1,20 @@
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.Form1.resources
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.Properties.Resources.resources
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.csproj.GenerateResource.Cache
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\bin\Debug\EXtoWD.exe
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\bin\Debug\EXtoWD.pdb
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.exe
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.pdb
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.csproj.ResolveComReference.cache
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\obj\x86\Debug\Interop.ADOX.dll
+c:\users\yshtepo\documents\visual studio 2010\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.DataCollect.resources
+C:\Projects\EXtoWD\EXtoWD\obj\x86\Debug\Interop.ADOX.dll
+C:\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.csproj.ResolveComReference.cache
+C:\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.exe
+C:\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.pdb
+C:\Projects\EXtoWD\EXtoWD\bin\Debug\EXtoWD.exe
+C:\Projects\EXtoWD\EXtoWD\bin\Debug\EXtoWD.pdb
+C:\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.DataCollect.resources
+C:\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.Form1.resources
+C:\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.Properties.Resources.resources
+C:\Projects\EXtoWD\EXtoWD\obj\x86\Debug\EXtoWD.csproj.GenerateResource.Cache
